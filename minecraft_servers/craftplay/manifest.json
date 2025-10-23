@@ -20,13 +20,6 @@
     "teamspeak": "ts.craftplay.de"
   },
   "gamemodes": {
-    "citybuild": {
-      "name": "Spielerstädte", 
-      "color": "#5454FC",
-      "url": "https://www.craftplay.de/wiki/citybuild",
-      "command": "/spielerstädte",
-      "versions": "1.20<*"
-    },
     "plotserver": {
       "name": "Plotserver",
       "color": "#55FFFF",
@@ -72,3 +65,4 @@
   },
   "yt_trailer": "opSRr2cnSPU"
 }
+
